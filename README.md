@@ -1,3 +1,3 @@
-# www.gh.allegrogroup.com
+# charts.hiro.so
 
 ## Subdomain takeover by vulnera
